@@ -1,16 +1,50 @@
 ## Hi there 👋
 
-<!--
-**sadhana62/sadhana62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Sadhana Shrivastava | Full-Stack Developer | AI Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+Hi there! I'm **Sadhana Shrivastava**, a passionate **Software Developer** with a B.Sc. (H) in Computer Science from **Shaheed Sukhdev College of Business Studies (University of Delhi)**. I specialize in **full-stack web development**, **AI-powered applications**, and **real-time communication systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 Tech Stack  
+`React.js` · `Next.js` · `Node.js` · `Socket.io` · `WebRTC` · `MongoDB` · `SQL` · `Java` · `C++` · `Python` · `Vue.js` · `Git`
+
+
+
+#### 💼 Work Experience  
+**Frontend Developer – EnableX** *(Jul 2022 – Sep 2024)*  
+- Built features like hand raise, whiteboard, and virtual backgrounds for a real-time video platform.  
+- Integrated **Face AI** for candidate detection during onboarding.  
+- Collaborated with cross-functional teams for performance optimization and UX improvements.
+
+---
+
+#### 🏆 Achievements  
+- 🥈 Udaan Scholarship – SSCBS  
+- 🥈 2nd Position – Annual College Exams  
+- 🧠 Dainik Jagran Genius Award  
+- 🏅 Top 3 District Ranker – AISSCE (Science)
+
+---
+
+#### 📚 Certifications  
+- 🧠 TensorFlow Developer Certificate – Udemy  
+- 🎨 Graphic Design – California Institute of Arts (Coursera)  
+- 🌐 Computer Networking – Google (Coursera)
+
+---
+
+#### 🎯 Interests  
+AI/ML · SaaS Platforms · Real-time Apps · UI/UX · Competitive Programming
+
+---
+
+#### 📫 Connect with Me  
+- 📧 **Email**: sadhana.19582@sscbs.du.ac.in  
+- 🔗 **LinkedIn**: [Coming Soon]  
+- 🧾 **Portfolio/Resume**: [Coming Soon]
+
+---
+
+_Always building. Always learning._
+
