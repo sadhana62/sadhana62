@@ -40,8 +40,8 @@ AI/ML · SaaS Platforms · Real-time Apps · UI/UX · Competitive Programming
 ---
 
 #### 📫 Connect with Me  
-- 📧 **Email**: sadhana.19582@sscbs.du.ac.in  
-- 🔗 **LinkedIn**: [Coming Soon]  
+- 📧 **Email**: sadhana6299@gmail.com
+- 🔗 **LinkedIn**: www.linkedin.com/in/sadhana-shrivastava-profile 
 - 🧾 **Portfolio/Resume**: [Coming Soon]
 
 ---
