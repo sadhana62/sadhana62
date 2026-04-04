@@ -21,6 +21,7 @@ Hi, I am **Sadhana Shrivastava**, currently pursuing my **MCA at Jawaharlal Nehr
 ---
 
 ####  Achievements  
+- Qualified **GATE (Graduate Aptitude Test in Engineering)** 2026 
 - Udaan Scholarship – SSCBS  
 - 2nd Position – Annual College Exams  
 - Dainik Jagran Genius Award  
