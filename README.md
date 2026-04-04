@@ -3,7 +3,7 @@
 ###  Sadhana Shrivastava | Full-Stack Developer | AI Enthusiast | Problem Solver
 ## Introduction
 
-Hi, I’m **Sadhana Shrivastava**, currently pursuing my **MCA at Jawaharlal Nehru University (JNU)**. I completed my **B.Sc. (H) in Computer Science** from **Shaheed Sukhdev College of Business Studies, University of Delhi**, and have also gained **industry experience as a developer**. I’m passionate about **full-stack web development**, **AI-powered applications**, and **real-time communication systems**, and I enjoy building **practical, user-focused solutions** through technology.
+Hi, I am **Sadhana Shrivastava**, currently pursuing my **MCA at Jawaharlal Nehru University (JNU)**. I completed my **B.Sc. (H) in Computer Science** from **Shaheed Sukhdev College of Business Studies, University of Delhi**, and have also gained **industry experience as a developer**. I’m passionate about **full-stack web development**, **AI-powered applications**, and **real-time communication systems**, and I enjoy building **practical, user-focused solutions** through technology.
 
 ---
 
