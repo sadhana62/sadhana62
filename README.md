@@ -19,8 +19,11 @@ Hi, I am **Sadhana Shrivastava**, currently pursuing my **MCA at Jawaharlal Nehr
 - Collaborated with cross-functional teams for performance optimization and UX improvements.
 
 ---
+![GSSoC Badge](PASTE_BADGE_IMAGE_LINK_HERE)
 
 ####  Achievements  
+- Selected Contributor at GirlScript Summer of Code 2026
+- Selected Contributor at Social Summer of Code 2026
 - Qualified **GATE (Graduate Aptitude Test in Engineering)** 2026 
 - Udaan Scholarship – SSCBS  
 - 2nd Position – Annual College Exams  
