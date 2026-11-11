@@ -11,7 +11,7 @@
   <a href="mailto:sadhana6299@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="#">
+  <a href="https://sadhana62.github.io/PortFolio-sadhana/">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge" />
   </a>
 </p>
